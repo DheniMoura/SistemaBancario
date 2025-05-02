@@ -1,6 +1,6 @@
 # Sistema Bancário Simples
 
-##Conceitos praticados
+## Conceitos praticados
 Classe e objetos |	Conta, Cliente, Banco
 Herança |	ContaCorrente e ContaPoupanca
 Encapsulamento |	Saldo protegido, métodos públicos
